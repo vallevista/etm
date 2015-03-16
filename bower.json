@@ -1,0 +1,28 @@
+{
+  "name": "easy territory maker",
+  "version": "0.0.2",
+  "description": "A territory and map maker for use with kml files from google earth",
+  "keywords": [
+    "territory",
+    "map",
+    "kml",
+    "earth",
+    "google"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.3",
+    "leaflet.label": "https://github.com/Leaflet/Leaflet.label.git",
+    "togeojson": "~0.8.1",
+    "jquery": "~2.1.1",
+    "jquery-ui": "~1.11.1",
+    "leaflet.labeloverlay": "*"
+  }
+}
