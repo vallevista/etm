@@ -1,0 +1,42 @@
+.center {
+	text-align: center;
+}
+
+table.territory-detail
+{
+	width: 100%;
+}
+
+table.territory-detail td {
+	padding: 10px;
+}
+
+table.territory-detail td {
+	border-bottom: dashed 1px #fcefa1;
+}
+
+table.territory-detail tbody tr:hover
+{
+	cursor: pointer;
+	background-color: #fbf9ee;
+}
+
+ul.assignment-record-list li
+{
+	padding: 10px;
+}
+.thin
+{
+	margin: 1px !important;
+	padding: 1px !important;
+}
+.thin a,
+.thin span
+{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+img.territory-icon
+{
+	height: 34px;
+}
